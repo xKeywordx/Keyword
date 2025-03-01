@@ -1,6 +1,6 @@
 # Keyword
 
-## Hi there 👋, I'm Keyword!
+## Hi there 👋, I'm xKeywordx!
 
 🚀 I'm a Smart Contract Security Researcher
 
