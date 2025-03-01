@@ -1,5 +1,3 @@
-# Keyword
-
 ## Hi there 👋, I'm Keyword!
 
 🚀 I'm a Smart Contract Security Researcher
